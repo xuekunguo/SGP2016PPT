@@ -1,0 +1,127 @@
+% ---------------------------------------------------------------------------
+% Author guideline and sample document for EG publication using LaTeX2e input
+% D.Fellner, v1.13, Nov 13, 2007
+
+\documentclass{egpubl}
+\usepackage{egsgp16}
+
+% --- for  Annual CONFERENCE
+% \ConferenceSubmission % uncomment for Conference submission
+% \ConferencePaper      % uncomment for (final) Conference Paper
+% \STAR                 % uncomment for STAR contribution
+% \Tutorial             % uncomment for Tutorial contribution
+% \ShortPresentation    % uncomment for (final) Short Conference Presentation
+%
+% --- for  CGF Journal
+% \JournalSubmission    % uncomment for submission to Computer Graphics Forum
+% \JournalPaper         % uncomment for final version of Journal Paper
+%
+% --- for  CGF Journal: special issue
+% \SpecialIssueSubmission    % uncomment for submission to Computer Graphics Forum, special issue
+\SpecialIssuePaper         % uncomment for final version of Journal Paper, special issue
+%
+% --- for  EG Workshop Proceedings
+% \WsSubmission    % uncomment for submission to EG Workshop
+% \WsPaper         % uncomment for final version of EG Workshop contribution
+%
+ \electronicVersion % can be used both for the printed and electronic version
+
+% !! *please* don't change anything above
+% !! unless you REALLY know what you are doing
+% ------------------------------------------------------------------------
+
+% for including postscript figures
+% mind: package option 'draft' will replace PS figure by a filname within a frame
+\ifpdf \usepackage[pdftex]{graphicx} \pdfcompresslevel=9
+\else \usepackage[dvips]{graphicx} \fi
+
+\PrintedOrElectronic
+
+% prepare for electronic version of your document
+\usepackage{t1enc,dfadobe}
+\usepackage{egweblnk}
+\usepackage{cite}
+\usepackage{diagbox}
+\usepackage{xspace}
+\usepackage[english]{babel}
+\usepackage{enumitem}
+\usepackage{amstext}
+\usepackage{amsmath}
+\usepackage{xcolor}
+%\usepackage{soul}
+\usepackage{subfigure}
+
+\def\ProjName{CustomCut}
+\def\RCKNNG{\mbox{RC-$k$NNG}}
+\def\sid#1{\textcolor{red}{(\textsc{Sid says: }\textsf{#1})}}
+\def\xiaogang#1{\textcolor{blue}{(\textsc{Xiaogang says: }\textsf{#1})}}
+\def\xuekun#1{\textcolor{green}{(\textsc{Xuekun says: }\textsf{#1})}}
+\def\kevin#1{\textcolor{magenta}{(\textsc{Kevin says: }\textsf{#1})}}
+\def\juncong#1{\textcolor{orange}{(\textsc{Juncong says: }\textsf{#1})}}
+
+% For backwards compatibility to old LaTeX type font selection.
+% Uncomment if your document adheres to LaTeX2e recommendations.
+% \let\rm=\rmfamily    \let\sf=\sffamily    \let\tt=\ttfamily
+% \let\it=\itshape     \let\sl=\slshape     \let\sc=\scshape
+% \let\bf=\bfseries
+
+% end of prologue
+
+\title[CustomCut]{CustomCut: On-demand Extraction of Customized 3D Parts with 2D Sketches}
+% for anonymous conference submission please enter your SUBMISSION ID
+% instead of the author's name (and leave the affiliation blank) !!
+\author[X. Guo, J. Lin, K. Xu, S. Chaudhuri \& X. Jin]
+       {Xuekun Guo$^{1}$
+        and Juncong Lin$^{2}$
+        and Kai Xu$^{3}$
+        and Siddhartha Chaudhuri$^{4}$
+        and Xiaogang Jin\thanks{Corresponding author: jin@cad.zju.edu.cn}$^{1}$
+        \\
+% For Computer Graphics Forum: Please use the abbreviation of your first name.
+         $^1$State Key Lab of CAD\&CG, Zhejiang University, China\\
+         $^2$Software School of Xiamen University, China \\
+         $^3$National University of Defense Technology, China \\
+         $^4$Indian Institute of Technology Bombay, India
+%        $^2$ Another Department to illustrate the use in papers from authors
+%             with different affiliations
+       }
+
+%\input{EGauthorGuidelines-body.inc}
+
+
+%-------------------------------------------------------------------------
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Several applications in shape modeling and exploration require identification and extraction of a 3D shape part matching a 2D sketch. We present {\ProjName}, an on-demand part extraction algorithm. Given a sketched query, {\ProjName} automatically retrieves partially matching shapes from a database, identifies the region optimally matching the query in each shape, and extracts this region to produce a customized part that can be used in various modeling applications. In contrast to earlier work on sketch-based retrieval of predefined parts, our approach can extract arbitrary parts from input shapes and does not rely on a prior segmentation into semantic components. The method is based on a novel data structure for fast retrieval of partial matches: the randomized compound $k$-NN graph built on multi-view shape projections. We also employ a coarse-to-fine strategy to progressively refine part boundaries down to the level of individual faces. Experimental results indicate that our approach provides an intuitive and easy means to extract customized parts from a shape database, and significantly expands the design space for the user. We demonstrate several applications of our method to shape design and exploration.
+\begin{classification} % according to http://www.acm.org/class/1998/
+\CCScat{Computer Graphics}{I.3.3}{Modeling}{3D Shape Matching}
+\end{classification}
+
+\end{abstract}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{./Content/intro}
+\input{./Content/related}
+\input{./Content/overview}
+\input{./Content/acceleration}
+\input{./Content/suggestion}
+\input{./Content/extraction}
+\input{./Content/apps}
+\input{./Content/results}
+\input{./Content/conclusion}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Acknowledgments}
+We would like to thank Yutong Wang, Debing Zhang, Xuan Cheng, Tian Qiu, Kuan Wang, Yu Huang, Wanxuan Sun, and the reviewers for their constructive comments.
+Xiaogang Jin was supported by the National Natural Science Foundation of China (No. 61472351, and 61272298).
+Juncong Lin was supported by the National Natural Science Foundation of China (No. 61202142), and the National Key Technology R\&D Program Foundation of China (No. 2015BAH16F00/F02).
+Kai Xu was supported by the National Natural Science Foundation of China (No. 61572507, and 61532003).
+Siddhartha Chaudhuri was partially supported by a gift from Adobe Systems.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliography{Bib}
+\bibliographystyle{eg-alpha-doi}
+\end{document}

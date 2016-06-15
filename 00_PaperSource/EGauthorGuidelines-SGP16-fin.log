@@ -1,0 +1,759 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.10)  15 JUN 2016 10:21
+entering extended mode
+**EGauthorGuidelines-SGP16-fin.tex
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\EGauthorGuidelines-SGP16-fin.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for loaded.
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\egpubl.cls
+Document Class: egpubl 2015/12/03 Document Style for EG Publications v3.63
+\c@table=\count79
+\c@figure=\count80
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\titlespace=\skip41
+\teaserspace=\skip42
+\c@p@volume=\count87
+\bibhang=\skip43
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\EGauthorGuidelines-SGP16-fin.lbl))
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\egsgp16.sty)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2010/11/26 v0.05c Graphics/color for pdfTeX
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2010/11/26 v6.81v Hypertext links for LaTeX
+
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\pdfescape.sty"
+Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
+s (HO)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\oberdiek\hycolor.sty"
+Package: hycolor 2009/12/12 v1.6 Color options of hyperref/bookmark (HO)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\oberdiek\xcolor-patch.sty"
+Package: xcolor-patch 2009/12/12 xcolor patch
+))
+("E:\Program Files\CTEX\MiKTeX\tex\latex\oberdiek\letltxmacro.sty"
+Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+)
+\@linkdim=\dimen104
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2010/11/26 v6.81v Hyperref: PDFDocEncoding definition (HO)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\intcalc.sty"
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+\Hy@SavedSpaceFactor=\count91
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3889.
+Package hyperref Info: Option `bookmarks' set `false' on input line 3889.
+Package hyperref Info: Hyper figures OFF on input line 3993.
+Package hyperref Info: Link nesting OFF on input line 3998.
+Package hyperref Info: Hyper index ON on input line 4001.
+Package hyperref Info: Plain pages OFF on input line 4008.
+Package hyperref Info: Backreferencing ON on input line 4011.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4234.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\hyperref\backref.sty"
+Package: backref 2010/08/30 v1.36 Bibliographical back referencing
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2010/03/16 v1.6 Rerun checks for auxiliary files (HO)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\oberdiek\atveryend.sty"
+Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\uniquecounter.sty"
+Package: uniquecounter 2009/12/18 v1.1 Provides unlimited unique counter (HO)
+
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\bigintcalc.sty"
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+71.
+))
+\c@Hy@tempcnt=\count92
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4583.
+
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\bitset.sty"
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+)
+\Fld@menulength=\count93
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 5667.
+Package hyperref Info: Link nesting OFF on input line 5672.
+Package hyperref Info: Hyper index ON on input line 5675.
+Package hyperref Info: backreferencing ON on input line 5680.
+Package hyperref Info: Link coloring ON on input line 5685.
+Package hyperref Info: Link coloring with OCG OFF on input line 5692.
+Package hyperref Info: PDF/A mode OFF on input line 5697.
+LaTeX Info: Redefining \ref on input line 5737.
+LaTeX Info: Redefining \pageref on input line 5741.
+
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+)
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2010/11/26 v6.81v Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+\Hy@SectionHShift=\skip44
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\base\t1enc.sty"
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\dfadobe.sty
+Package: dfadobe 2000/03/05 v1.4 T1-encoded Times (except symbols), Courier, He
+lvetica (at 90\%) + math package
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 14.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 14.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 15.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 15.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 15.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 16.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 16.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 16.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 19.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 19.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 20.
+
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\dfT1ptm.fd
+File: dfT1ptm.fd 2000/03/05 DF - Fontinst v1.6 font definitions for T1/ptm.
+)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\dfT1phv.fd
+File: dfT1phv.fd 1997/12/02 Fontinst v1.6 font definitions for T1/phv scaled to
+ 90\%.
+)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\dfT1pcr.fd
+File: dfT1pcr.fd 2000/03/05 DF - Fontinst v1.6 font definitions for T1/pcr.
+))
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\egweblnk.sty
+Package: egweblnk 2004/10/29 v2.2 DF's support for http web links in class egpu
+bl
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("E:\Program Files\CTEX\UserData\tex\latex\diagbox\diagbox.sty"
+Package: diagbox 2011/11/23 v2.0 Making table heads with diagonal lines
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\pict2e\pict2e.sty"
+Package: pict2e 2009/08/05 v0.2x Improved picture commands (HjG,RN,JT)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\pict2e.cfg"
+File: pict2e.cfg 2005/12/29 v1.0 MiKTeX 'pict2e' configuration
+)
+Package pict2e Info: Driver file: pdftex.def on input line 101.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 103.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\pict2e\p2e-pdftex.def"
+File: p2e-pdftex.def 2009/08/05 v0.1s Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks17
+\@arclen=\dimen107
+\@arcrad=\dimen108
+\@tempdimd=\dimen109
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp.sty"
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\defpattern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count99
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count100
+\FP@xia=\count101
+\FP@xib=\count102
+\FP@xfa=\count103
+\FP@xfb=\count104
+\FP@rega=\count105
+\FP@regb=\count106
+\FP@regs=\count107
+\FP@times=\count108
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-addons.sty"
+Package: fp-addons 1995/03/15
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-exp.sty"
+Package: fp-exp 1995/04/03
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-trigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-pas.sty"
+Package: fp-pas 1994/08/29
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-random.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count109
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-eqn.sty"
+Package: fp-eqn 1995/04/03
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-upn.sty"
+Package: fp-upn 1996/10/21
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\fp\fp-eval.sty"
+Package: fp-eval 1995/04/03
+))
+\diagbox@boxa=\box26
+\diagbox@boxb=\box27
+\diagbox@boxm=\box28
+\diagbox@wd=\dimen110
+\diagbox@ht=\dimen111
+\diagbox@sepl=\dimen112
+\diagbox@sepr=\dimen113
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\tools\xspace.sty"
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("E:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("E:\Program Files\CTEX\MiKTeX\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count110
+\U@D=\dimen114
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@american = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("E:\Program Files\CTEX\MiKTeX\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2009/05/18 v2.2 Customized lists
+\enit@toks=\toks18
+\labelindent=\skip45
+\enit@outerparindent=\dimen115
+\enitdp@desc=\count111
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen116
+))
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen117
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count112
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count113
+\leftroot@=\count114
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count115
+\DOTSCASE@=\count116
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count117
+\c@MaxMatrixCols=\count118
+\dotsspace@=\muskip11
+\c@parentequation=\count119
+\dspbrk@lvl=\count120
+\tag@help=\toks20
+\row@=\count121
+\column@=\count122
+\maxfields@=\count123
+\andhelp@=\toks21
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks22
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("E:\Program Files\CTEX\MiKTeX\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen125
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen126
+\subfiglabelskip=\skip52
+\c@subfigure=\count124
+\c@lofdepth=\count125
+\c@subtable=\count126
+\c@lotdepth=\count127
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("E:\Program Files\CTEX\MiKTeX\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\EGauthorGuidelines-SGP16-fin.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+
+("E:\Program Files\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen127
+\scratchbox=\box31
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen128
+\MPnumerator=\count132
+\everyMPtoPDFconversion=\toks25
+)
+\AtBeginShipoutBox=\box32
+
+
+Package hyperref Warning: Height of page (\paperheight) is invalid (0.0pt),
+(hyperref)                using 11in.
+
+Package hyperref Info: Link coloring ON on input line 93.
+("E:\Program Files\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\oberdiek\refcount.sty"
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+("E:\Program Files\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
+)
+\c@section@level=\count133
+)
+LaTeX Info: Redefining \ref on input line 93.
+LaTeX Info: Redefining \pageref on input line 93.
+LaTeX Info: Redefining \nameref on input line 93.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 96.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 96
+.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 96
+.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 96
+.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 96.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 97.
+
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\intro.tex
+<./Material/TeaserSGP.pdf, id=9, 1365.1pt x 1310.44586pt>
+File: ./Material/TeaserSGP.pdf Graphic file (type pdf)
+
+<use ./Material/TeaserSGP.pdf>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 25.
+
+("E:\Program Files\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 25.
+ [1{E:/Program Files/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.s
+fd}}
+
+
+]
+<./Material/Pipeline.pdf, id=28, 2796.8489pt x 554.32295pt>
+File: ./Material/Pipeline.pdf Graphic file (type pdf)
+
+<use ./Material/Pipeline.pdf>
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 31.
+)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\related.tex)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\overview.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--2
+ \T1/ptm/b/n/9 Ex-ploratory Shape Mod-el-ing. \T1/ptm/m/n/9 The idea of in-cor-
+po-rat-ing
+ []
+
+) (D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\acceleration.tex [2 <D:/OnT
+heFlyCutting/00_PPT/00_PaperSource/Material/TeaserSGP.pdf>]
+<./Material/CtourMatch.pdf, id=135, 332.91176pt x 194.1654pt>
+File: ./Material/CtourMatch.pdf Graphic file (type pdf)
+
+<use ./Material/CtourMatch.pdf>
+<./Material/KNN.pdf, id=141, 1088.46652pt x 809.1791pt>
+File: ./Material/KNN.pdf Graphic file (type pdf)
+
+<use ./Material/KNN.pdf>
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[3 <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Material/Pipeline.pdf> <D:/OnTheFl
+yCutting/00_PPT/00_PaperSource/Material/CtourMatch.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+[]\T1/ptm/m/n/9 We adopt a mul-ti-ple ran-dom divide-and-conquer strat-
+ []
+
+) (D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\suggestion.tex)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\extraction.tex [4 <D:/OnTheFl
+yCutting/00_PPT/00_PaperSource/Material/KNN.pdf>]
+<./Material/IrreWay.pdf, id=533, 1794.00243pt x 1712.89937pt>
+File: ./Material/IrreWay.pdf Graphic file (type pdf)
+
+<use ./Material/IrreWay.pdf>
+<./Material/SFG.pdf, id=536, 1505.43434pt x 423.08163pt>
+File: ./Material/SFG.pdf Graphic file (type pdf)
+
+<use ./Material/SFG.pdf>
+Underfull \vbox (badness 1902) has occurred while \output is active []
+
+
+<./Material/Consistency.pdf, id=538, 423.0756pt x 101.34964pt>
+File: ./Material/Consistency.pdf Graphic file (type pdf)
+
+<use ./Material/Consistency.pdf>
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5 <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Material/IrreWay.pdf> <D:/OnTheFly
+Cutting/00_PPT/00_PaperSource/Material/SFG.pdf> <D:/OnTheFlyCutting/00_PPT/00_P
+aperSource/Material/Consistency.pdf>]
+<./Material/ComplexCtour.pdf, id=814, 2285.22752pt x 1088.9483pt>
+File: ./Material/ComplexCtour.pdf Graphic file (type pdf)
+
+<use ./Material/ComplexCtour.pdf> [6 <D:/OnTheFlyCutting/00_PPT/00_PaperSource/
+Material/ComplexCtour.pdf>])
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\apps.tex
+<./Material/CTModels.pdf, id=990, 3161.92302pt x 840.51515pt>
+File: ./Material/CTModels.pdf Graphic file (type pdf)
+
+<use ./Material/CTModels.pdf>
+Overfull \hbox (12.00073pt too wide) in paragraph at lines 8--9
+ [][] 
+ []
+
+<./Material/Sketch2Scene.pdf, id=991, 2843.61371pt x 601.28638pt>
+File: ./Material/Sketch2Scene.pdf Graphic file (type pdf)
+
+<use ./Material/Sketch2Scene.pdf>
+Overfull \hbox (12.00073pt too wide) in paragraph at lines 13--14
+ [][] 
+ []
+
+<./Material/PhotoDrivenModeling.pdf, id=995, 1626.79767pt x 1096.33589pt>
+File: ./Material/PhotoDrivenModeling.pdf Graphic file (type pdf)
+
+<use ./Material/PhotoDrivenModeling.pdf>
+<./Material/ShapeVariation.pdf, id=997, 2129.28506pt x 1255.82175pt>
+File: ./Material/ShapeVariation.pdf Graphic file (type pdf)
+
+<use ./Material/ShapeVariation.pdf>
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7 <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Material/CTModels.pdf> <D:/OnTheFl
+yCutting/00_PPT/00_PaperSource/Material/Sketch2Scene.pdf> <D:/OnTheFlyCutting/0
+0_PPT/00_PaperSource/Material/PhotoDrivenModeling.pdf>]
+<./Material/SymSel.pdf, id=1317, 1850.05179pt x 562.50153pt>
+File: ./Material/SymSel.pdf Graphic file (type pdf)
+
+<use ./Material/SymSel.pdf>
+<./Material/Appl.pdf, id=1321, 10271.37375pt x 10258.12405pt>
+File: ./Material/Appl.pdf Graphic file (type pdf)
+
+<use ./Material/Appl.pdf>
+<./Material/MSPS.pdf, id=1324, 3217.03885pt x 3519.33815pt>
+File: ./Material/MSPS.pdf Graphic file (type pdf)
+
+<use ./Material/MSPS.pdf>)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\results.tex
+<./Material/MoreRetrievalRes.pdf, id=1325, 2772.7589pt x 3037.75894pt>
+File: ./Material/MoreRetrievalRes.pdf Graphic file (type pdf)
+
+<use ./Material/MoreRetrievalRes.pdf> [8 <D:/OnTheFlyCutting/00_PPT/00_PaperSou
+rce/Material/ShapeVariation.pdf> <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Mate
+rial/SymSel.pdf> <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Material/Appl.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[][] \T1/ptm/m/n/9 with Wang's ran-dom-ized ap-prox-i-ma-tion
+ []
+
+<./Material/RCKNNGComp.pdf, id=2118, 6241.3577pt x 3630.83478pt>
+File: ./Material/RCKNNGComp.pdf Graphic file (type pdf)
+
+<use ./Material/RCKNNGComp.pdf>
+Overfull \hbox (1.21193pt too wide) in paragraph at lines 40--52
+ [][] 
+ []
+
+<./Material/PreRecDifAlg.pdf, id=2119, 515.6093pt x 408.277pt>
+File: ./Material/PreRecDifAlg.pdf Graphic file (type pdf)
+
+<use ./Material/PreRecDifAlg.pdf>
+<./Material/PreRecDifViews.pdf, id=2120, 515.6093pt x 408.277pt>
+File: ./Material/PreRecDifViews.pdf Graphic file (type pdf)
+
+<use ./Material/PreRecDifViews.pdf>
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9 <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Material/MSPS.pdf> <D:/OnTheFlyCut
+ting/00_PPT/00_PaperSource/Material/MoreRetrievalRes.pdf>]
+<./Material/SFGNVary.pdf, id=3309, 2350.61194pt x 2006.05466pt>
+File: ./Material/SFGNVary.pdf Graphic file (type pdf)
+
+<use ./Material/SFGNVary.pdf> [10 <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Mat
+erial/RCKNNGComp.pdf> <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Material/PreRec
+DifAlg.pdf> <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Material/PreRecDifViews.p
+df>] <./Material/Comp2PreSeg.pdf, id=3575, 1017.8025pt x 786.14001pt>
+File: ./Material/Comp2PreSeg.pdf Graphic file (type pdf)
+
+<use ./Material/Comp2PreSeg.pdf>)
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\Content\conclusion.tex)
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11 <D:/OnTheFlyCutting/00_PPT/00_PaperSource/Material/SFGNVary.pdf> <D:/OnTheF
+lyCutting/00_PPT/00_PaperSource/Material/Comp2PreSeg.pdf>]
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\EGauthorGuidelines-SGP16-fin.bbl
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\EGauthorGuidelines-SGP16-fin.brf)
+\tf@brf=\write3
+
+Underfull \hbox (badness 1472) in paragraph at lines 162--162
+[]\T1/ptm/m/sc/8 Sidi O., van Kaick O., Kleiman Y., Zhang H.,
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 184--184
+[]\T1/ptm/m/sc/8 Xu K., Chen K., Fu H., Sun W.-L., Hu S.-M.\T1/ptm/m/n/8 :
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
+
+(D:\OnTheFlyCutting\00_PPT\00_PaperSource\EGauthorGuidelines-SGP16-fin.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 127.
+Package rerunfilecheck Info: File `EGauthorGuidelines-SGP16-fin.brf' has not ch
+anged.
+(rerunfilecheck)             Checksum: 5E370FF9820AB280FFB636CAA598313C;2729.
+ ) 
+Here is how much of TeX's memory you used:
+ 8204 strings out of 495362
+ 120500 string characters out of 3183239
+ 254236 words of memory out of 3000000
+ 11008 multiletter control sequences out of 15000+200000
+ 56780 words of font info for 81 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,16n,35p,1302b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/Program Files/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<E:/Program Fil
+es/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/Program Files/CTEX
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/Program Files/CTEX/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/Program Files/CTEX/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmsy5.pfb><E:/Program Files/CTEX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsy6.pfb><E:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmsy7.pfb><E:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><E:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pf
+b><E:/Program Files/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><E:/Program
+ Files/CTEX/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><E:/Program Files/CTEX/MiKTe
+X/fonts/type1/urw/times/utmb8a.pfb><E:/Program Files/CTEX/MiKTeX/fonts/type1/ur
+w/times/utmbi8a.pfb><E:/Program Files/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.
+pfb><E:/Program Files/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on EGauthorGuidelines-SGP16-fin.pdf (12 pages, 11654396 bytes).
+PDF statistics:
+ 3944 PDF objects out of 4296 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+

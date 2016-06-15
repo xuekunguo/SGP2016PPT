@@ -1,0 +1,190 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{\uppercase{WWZ{\etalchar{*}}12}}
+
+\bibitem[AI08]{nearoptimalandoniacm2008}
+\textsc{Andoni A., Indyk P.}:
+\newblock Near-optimal hashing algorithms for approximate nearest neighbor in
+  high dimensions.
+\newblock \emph{Communications of the ACM 51}, 1 (2008).
+
+\bibitem[AZC{\etalchar{*}}12]{concavityawareyouyitvcg2012}
+\textsc{Au O.-C., Zheng Y., Chen M., Xu P., Tai C.-L.}:
+\newblock Mesh segmentation with concavity-aware fields.
+\newblock \emph{IEEE TVCG 18}, 7 (2012), 1125--1134.
+
+\bibitem[BK04]{anexperimentalcomparisonboykovpami2004}
+\textsc{Boykov Y., Kolmogorov V.}:
+\newblock An experimental comparison of min-cut/max-flow algorithms for energy
+  minimization in vision.
+\newblock \emph{TMAPI 26}, 9 (2004), 1124--1137.
+
+\bibitem[CGF09]{benchmarkforsegmentationchenxiaobaisg2009}
+\textsc{Chen X., Golovinskiy A., Funkhouser T.}:
+\newblock A benchmark for {3D} mesh segmentation.
+\newblock \emph{ACM TOG 28}, 3 (2009).
+
+\bibitem[CK10]{datadrivenvladenaisa2010}
+\textsc{Chaudhuri S., Koltun V.}:
+\newblock Data-driven suggestions for creativity support in {3D} modeling.
+\newblock \emph{ACM TOG 29}, 6 (2010).
+
+\bibitem[CKGK11]{probabilisticreasoningvladlensg2011}
+\textsc{Chaudhuri S., Kalogerakis E., Guibas L., Koltun V.}:
+\newblock Probabilistic reasoning for assembly-based {3D} modeling.
+\newblock \emph{ACM TOG 30}, 4 (2011).
+
+\bibitem[CTSO03]{onvisualsimilaritychencgf2003}
+\textsc{Chen D.-Y., Tian X.-P., Shen Y.-T., Ouhyoung M.}:
+\newblock On visual similarity based {3D} model retrieval.
+\newblock \emph{Comp. Graph. For. 22}, 3 (2003), 223--232.
+
+\bibitem[Dec88]{DeckerChildren1988}
+\textsc{Decker C.~A.}:
+\newblock \emph{Children: The Early Years}.
+\newblock Goodheart-Willcox, 1988.
+
+\bibitem[DFRS03]{suggestivecontoursrusinkiewicztog2003}
+\textsc{DeCarlo D., Finkelstein A., Rusinkiewicz S., Santella A.}:
+\newblock Suggestive contours for conveying shape.
+\newblock \emph{ACM TOG 22}, 3 (2003), 848--855.
+
+\bibitem[ERB{\etalchar{*}}12]{EitRicBouHilAle12}
+\textsc{Eitz M., Richter R., Boubekeur T., Hildebrand K., Alexa M.}:
+\newblock Sketch-based shape retrieval.
+\newblock \emph{ACM TOG 31}, 4 (2012).
+
+\bibitem[FKS{\etalchar{*}}04]{modelingbyexamplefunkhousersg2004}
+\textsc{Funkhouser T., Kazhdan M., Shilane P., Min P., Kiefer W., Tal A.,
+  Rusinkiewicz S., Dobkin D.}:
+\newblock Modeling by example.
+\newblock \emph{ACM TOG 23}, 3 (2004), 652--663.
+
+\bibitem[FMK{\etalchar{*}}03]{asearchenginefunkhousertog2003}
+\textsc{Funkhouser T., Min P., Kazhdan M., Chen J., Halderman A., Dobkin D.,
+  Jacobs D.}:
+\newblock A search engine for 3d models.
+\newblock \emph{ACM TOG 22}, 1 (2003), 83--105.
+
+\bibitem[FML12]{FanMeshCutting2012}
+\textsc{Fan L., Meng M., Liu L.}:
+\newblock Sketch-based mesh cutting: a comparative study.
+\newblock \emph{Graphical Models 74}, 6 (2012), 292--301.
+
+\bibitem[FWX{\etalchar{*}}13]{FanWang2013}
+\textsc{Fan L., Wang R., Xu L., Deng J., Liu L.}:
+\newblock Modeling by drawing with shadow guidance.
+\newblock \emph{Comp. Graph. For. 32}, 7 (2013), 157--166.
+
+\bibitem[GF08]{randomizedcutsfunkhousertog2008}
+\textsc{Golovinskiy A., Funkhouser T.}:
+\newblock Randomized cuts for {3D} mesh analysis.
+\newblock \emph{ACM TOG 27}, 5 (2008).
+
+\bibitem[HFL]{cosegmentationof3dshapesliuligangcgf2012}
+\textsc{Hu R., Fan L., Liu L.}:
+\newblock Co-segmentation of {3D} shapes via subspace clustering.
+\newblock \emph{Comp. Graph. For. 31}, 5, 1703--1713.
+
+\bibitem[HKG11]{jointshapesegmentationhuangqixingsg2011}
+\textsc{Huang Q., Koltun V., Guibas L.}:
+\newblock Joint shape segmentation with linear programming.
+\newblock \emph{ACM TOG 30}, 6 (2011).
+
+\bibitem[IMT99]{Igarashi:1999:TSI:311535.311602}
+\textsc{Igarashi T., Matsuoka S., Tanaka H.}:
+\newblock Teddy: A sketching interface for {3D} freeform design.
+\newblock In \emph{Proc. SIGGRAPH} (1999), pp.~409--416.
+
+\bibitem[JLCW06]{CGF:CGF947}
+\textsc{Ji Z., Liu L., Chen Z., Wang G.}:
+\newblock Easy mesh cutting.
+\newblock \emph{Comp. Graph. For. 25}, 3 (2006).
+
+\bibitem[KHS10]{learning3dmeshsegmentationkalosg2010}
+\textsc{Kalogerakis E., Hertzmann A., Singh K.}:
+\newblock Learning {3D} mesh segmentation and labeling.
+\newblock \emph{ACM TOG 29}, 4 (2010).
+
+\bibitem[KT03]{hierarchicalmeshdecompositionayellettog2003}
+\textsc{Katz S., Tal A.}:
+\newblock Hierarchical mesh decomposition using fuzzy clustering and cuts.
+\newblock \emph{ACM TOG 22}, 3 (2003).
+
+\bibitem[LF08]{sketchbasedcompositionfunkhousersbim2008}
+\textsc{Lee J., Funkhouser T.}:
+\newblock Sketch-based search and composition of {3D} models.
+\newblock In \emph{Proc. SBIM} (2008), pp.~97--104.
+
+\bibitem[LSK{\etalchar{*}}10]{LeeExampleGalleries2010}
+\textsc{Lee B., Srivastava S., Kumar R., Brafman R., Klemmer S.~R.}:
+\newblock Designing with interactive example galleries.
+\newblock In \emph{Proc. CHI} (2010).
+
+\bibitem[ML11]{frompartialshapematchingcvpr}
+\textsc{Ma T., Latecki L.}:
+\newblock From partial shape matching through local deformation to robust
+  global shape similarity for object detection.
+\newblock In \emph{Proc. CVPR} (2011), pp.~1441--1448.
+
+\bibitem[ML14]{scalablenearestmujapami2014}
+\textsc{Muja M., Lowe D.}:
+\newblock Scalable nearest neighbor algorithms for high dimensional data.
+\newblock \emph{TPAMI 36}, 11 (2014).
+
+\bibitem[OSSJ09]{sketchbasedmodelingsurveycg2009}
+\textsc{Olsen L., Samavati F.~F., Sousa M.~C., Jorge J.~A.}:
+\newblock Sketch-based modeling: a survey.
+\newblock \emph{Computers \& Graphics 33}, 1 (2009), 85--103.
+
+\bibitem[RDB10]{partialedgecontourriemeneccv2010}
+\textsc{Riemenschneider H., Donoser M., Bischof H.}:
+\newblock Using partial edge contour matches for efficient object category
+  localization.
+\newblock In \emph{Proc. ECCV} (2010).
+
+\bibitem[RM03]{RenLCM2003}
+\textsc{Ren X., Malik J.}:
+\newblock Learning a classification model for segmentation.
+\newblock In \emph{Proceedings of the Ninth IEEE International Conference on
+  Computer Vision} (Washington, DC, USA, 2003), ICCV '03, IEEE Computer
+  Society, pp.~10--17 vol.1.
+
+\bibitem[Sha08]{surveyonmeshsegmentationshamircgf2008}
+\textsc{Shamir A.}:
+\newblock A survey on mesh segmentation techniques.
+\newblock \emph{Comp. Graph. For. 27}, 6 (2008), 1539--1556.
+
+\bibitem[SvKK{\etalchar{*}}11]{SidKaiKleZhaCoh11}
+\textsc{Sidi O., van Kaick O., Kleiman Y., Zhang H., Cohen-Or D.}:
+\newblock Unsupervised co-segmentation of a set of shapes via descriptor-space
+  spectral clustering.
+\newblock \emph{ACM TOG 30}, 6 (2011).
+
+\bibitem[SXY{\etalchar{*}}11]{discriminativesketchbasedshaotianjiacgf2011}
+\textsc{Shao T., Xu W., Yin K., Wang J., Zhou K., Guo B.}:
+\newblock Discriminative sketch-based {3D} model retrieval via robust shape
+  matching.
+\newblock \emph{Comp. Graph. For. 30}, 7 (2011), 2011--2020.
+
+\bibitem[TV08]{asurveyofcontentbasedtangeldermultimedia2008}
+\textsc{Tangelder J.~W., Veltkamp R.~C.}:
+\newblock A survey of content based {3D} shape retrieval methods.
+\newblock \emph{Multimedia Tools and Appl. 39}, 3 (2008), 441--471.
+
+\bibitem[WWZ{\etalchar{*}}12]{scalableknnjingwangcvpr2012}
+\textsc{Wang J., Wang J., Zeng G., Tu Z., Gan R., Li S.}:
+\newblock Scalable {k-NN} graph construction for visual descriptors.
+\newblock In \emph{Proc. CVPR} (2012).
+
+\bibitem[XCF{\etalchar{*}}13]{KunXu2013}
+\textsc{Xu K., Chen K., Fu H., Sun W.-L., Hu S.-M.}:
+\newblock {Sketch2Scene}: sketch-based co-retrieval and co-placement of {3D}
+  models.
+\newblock \emph{ACM TOG 32}, 4 (2013).
+
+\bibitem[XXM{\etalchar{*}}13]{sketchtodesignxukaicgf2013}
+\textsc{Xie X., Xu K., Mitra N.~J., Cohen-Or D., Gong W., Su Q., Chen B.}:
+\newblock {Sketch-to-Design}: Context-based part assembly.
+\newblock \emph{Comp. Graph. For. 32}, 8 (2013), 233--245.
+
+\end{thebibliography}
